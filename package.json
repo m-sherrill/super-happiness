@@ -1,0 +1,23 @@
+{
+  "name": "super-happiness",
+  "version": "1.0.0",
+  "description": "Solana airdrop practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-sherrill/super-happiness.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-sherrill/super-happiness/issues"
+  },
+  "homepage": "https://github.com/m-sherrill/super-happiness#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.39.1",
+    "dotenv": "^16.0.0"
+  }
+}
